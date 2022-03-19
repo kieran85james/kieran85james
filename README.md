@@ -16,7 +16,7 @@ My skills:
 I have been working on Magento for a few years now and really enjoying it. I'm currently working on getting my Adobe Commerce Developer Expert Certification. I would also love to learn docker at a more advanced level.
 
 # Current Magento achievements
-![Adobe_Certified_Professional_Adobe_Commerce_Developer_badge_white](https://user-images.githubusercontent.com/49641524/159131821-3f7c3735-0bff-4f26-8f16-7e7b0c5b76e4.png)
+![adobe-certified-professional-adobe-commerce-developer (2)](https://user-images.githubusercontent.com/49641524/159133264-cdc4d6aa-2ecf-47ea-986d-eedc71ed8508.png)
 
 
 <!---
