@@ -8,6 +8,7 @@ My skills:
 #  What I'm interested in 👀
 - Web development
 - Ansible
+- NixOS
 - Docker
 - Linux
 - Being outside
